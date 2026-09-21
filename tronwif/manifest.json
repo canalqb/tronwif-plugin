@@ -1,0 +1,8 @@
+{
+  "name": "tronwif",
+  "fullname": "TRX toolbox",
+  "author": "The Electrum Developers",
+  "version": "2.0.0",
+  "description": "Derive Tron (TRX) addresses from a Bitcoin-style WIF or hex private key and look up TRX + TRC20 balances on the Tron network via TronGrid.",
+  "available_for": ["qt", "cmdline"]
+}
