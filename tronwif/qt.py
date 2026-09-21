@@ -114,6 +114,7 @@ class Plugin(TronPlugin):
         for addr in wallet.get_addresses():
             if wallet.adb.get_address_history_len(addr) < 1:
                 continue
+            c, u, x = wallet.get_addr_balance(addr)
             try:
                 pk, _compressed = wallet.keystore.get_private_key(wallet.get_address_index(addr), password)
             except Exception:
