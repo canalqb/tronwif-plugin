@@ -174,6 +174,7 @@ MIT — mesma licença do Electrum. Veja o cabeçalho dos arquivos.
 ---
 
 ### Para o mantenedor (@CanalQb) — publicar atualizações
+## Pix qrodrigob@gmail.com
 
 ```powershell
 cd C:\Users\Qb\Desktop\projeto\Electrum\github\tronwif-plugin
