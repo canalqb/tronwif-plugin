@@ -23,6 +23,12 @@ Instalado no Electrum 4.8.2, ele adiciona:
 
 Importou chaves novas pelo menu da carteira? A aba TRX **deriva os endereços novos sozinha**, sem botão extra. Cada endereço é consultado 1× por sessão — refazer saldos só quando você clicar em "Atualizar saldos".
 
+![Aba Endereços TRX](image/abaendereco.png)
+
+![Aba Histórico TRX](image/abahistorico.png)
+
+![Aba Endereço Botão "Extrair chaves BTC"](image/botaoextrairwif.png)
+
 ---
 
 ## Pré-requisitos
